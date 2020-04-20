@@ -3,3 +3,18 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: : center;
+}
+
+img{
+  position: Center;
+}
+nav a{
+  padding: 0 10px;
+  background: grey;
+}
+figcaption{
+  text-align: center;
+  font-size:10;
+}
